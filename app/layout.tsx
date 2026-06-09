@@ -1,3 +1,4 @@
+// Scene Gourmet Layout
 export const metadata = {
   title: "Scene Gourmet",
   description: "シーンを伝えるだけ。AIが最適な一軒を選ぶ。",
